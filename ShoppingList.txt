@@ -3,3 +3,4 @@ ShoppingList:
 Apples
 Oranges
 Bananas
+Cereal
